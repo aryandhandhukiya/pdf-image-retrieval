@@ -1,5 +1,0 @@
-fitz
-pdf2image
-Pillow
-boto3
-nltk
