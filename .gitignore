@@ -1,0 +1,12 @@
+images/
+.pytest_cache/
+pdf_image_retrieval.egg_info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+dist/
+build/
+*.egg-info/
