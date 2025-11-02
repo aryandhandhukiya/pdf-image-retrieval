@@ -1,7 +1,7 @@
 images/
 .pytest_cache/
-pdf_image_retrieval.egg_info/
-__pycache__/
+pdf_image_retrieval.egg-info/
+pdf_image_retrieval/__pycache__/
 *.pyc
 *.pyo
 *.pyd

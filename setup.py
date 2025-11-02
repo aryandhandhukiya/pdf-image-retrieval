@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pdf-image-retrieval",
-    version="0.1.0",
+    name="pr",
+    version="0.1.1",
     author="Aryan Dhandhukiya",
     author_email="dhandhukiyaaryan05@gmail.com",
     description="Extracts images from PDFs, stores them in S3, and retrieves based on keyword search",
