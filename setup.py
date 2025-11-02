@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pr",
+    name="pdf-image-retrieval",
     version="0.1.1",
     author="Aryan Dhandhukiya",
     author_email="dhandhukiyaaryan05@gmail.com",
